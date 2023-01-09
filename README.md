@@ -1,4 +1,4 @@
-# ICS2O Intro-03
+# ICS2O Unit #X-YY
 
 [![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
 
