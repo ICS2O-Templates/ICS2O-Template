@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# to run: sudo bash ./.devcontainer/update.sh
+
 # now update the README.md file
 GITHUB_URL=$(git remote get-url origin)
 IFS='/' read -r var1 var2 var3 var4 var5 <<< $GITHUB_URL
