@@ -4,7 +4,7 @@
 
 # now update the README.md file
 GITHUB_URL=$(git remote get-url origin)
-IFS='/' read -r var1 var2 var3 var4 var5 <<< $GITHUB_URL
+IFS='/' read -r var1 var2 var3 var4 var5 <<< "$GITHUB_URL"
 echo "$var1"
 echo "$var2"
 echo "$var3"
