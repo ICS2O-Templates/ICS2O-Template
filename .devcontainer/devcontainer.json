@@ -36,6 +36,7 @@
                 ],
                 "python.linting.enabled": true,
                 "terminal.integrated.copyOnSelection": true,
+                "terminal.integrated.mouseWheelZoom": true,
                 "terminal.integrated.fontSize": 20,
                 "terminal.integrated.rightClickBehavior": "copyPaste",
                 "terminal.integrated.gpuAcceleration": "off",
